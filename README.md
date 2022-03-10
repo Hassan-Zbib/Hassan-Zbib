@@ -26,4 +26,4 @@
 
 <p  align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hassan-Zbib&count_private=true&show_icons=true&theme=midnight-purple"></p>
 
-<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Zbib&layout=compact"></p>
+<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Zbib&layout=compact&langs_count=10"></p>
