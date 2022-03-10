@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ![plot](./header.png)
 
-📈 My GitHub Stats  <p  align="center"><img src="https://komarev.com/ghpvc/?username=Hassan-Zbib&style=for-the-badge&color=blueviolet"></p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="204" />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" height="128" />
+📈 My GitHub Stats  <p  align="center"><img src="https://komarev.com/ghpvc/?username=Hassan-Zbib&style=for-the-badge&color=blueviolet"></p>
 
 <p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hassan-Zbib&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"></p>
 
