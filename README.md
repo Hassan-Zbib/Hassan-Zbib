@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 
 ![plot](./header.png)
 
-<p  align="center"><img src="https://komarev.com/ghpvc/?username=Hassan-Zbib&color=green)"></p>
+<p  align="center"><img src="https://komarev.com/ghpvc/?username=Hassan-Zbib&color=blueviolet)"></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hassan-Zbib&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Hassan-Zbib&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D"></p>
