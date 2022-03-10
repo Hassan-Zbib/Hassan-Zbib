@@ -6,15 +6,15 @@
 
 <br />
 
-I'm a passionate self-taught full stack web developer and a freelance software engineer from Lebanon. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+<p>I'm a passionate self-taught full stack web developer and a freelance software engineer from Lebanon. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</p>
 
 <img align="right" alt="GIF"src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="204"/>
 
-i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+<p>i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
 
 ---
 
-<i>Contact me on:</i><br>
+<i>You can contact me on:</i><br>
 
 <a href="https://www.linkedin.com/in/hassan-zbib/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
