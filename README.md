@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <p  align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hassan-Zbib&count_private=true&show_icons=true&theme=midnight-purple"></p>
 
-<p  align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"></p>
+<p  align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Zbib&layout=compact"></p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="204" />
+<img align="right" alt="GIF" display="absolute" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="204" />
