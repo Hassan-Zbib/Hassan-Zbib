@@ -8,7 +8,7 @@
 
 <p>I'm a passionate self-taught full stack web developer and a freelance software engineer from Lebanon. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</p>
 
-<img align="right" alt="GIF"src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="204"/>
+<p align="right"><img alt="GIF"src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="320" height="204"/></p>
 
 <p>i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
 
@@ -26,4 +26,4 @@
 
 <p  align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hassan-Zbib&count_private=true&show_icons=true&theme=midnight-purple"></p>
 
-<p  align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Zbib&layout=compact"></p>
+<p  align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan-Zbib&layout=compact"></p>
