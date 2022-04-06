@@ -12,7 +12,11 @@
 
 <i>You can contact me on:</i><br>
 
-<a href="https://www.linkedin.com/in/hassan-zbib/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<!-- <a href="https://www.linkedin.com/in/hassan-zbib/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/hassan-zbib/){:target="_blank" rel="noopener"}
+
+
 <a href="mailto:hassan.zbib01@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/email-8B89CC?&style=flat-square&logo=protonmail&logoColor=white" alt="Email"></a>
 
 </div>
