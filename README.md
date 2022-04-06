@@ -2,11 +2,11 @@
 
 <br />
 
-<p>I'm a passionate full stack web developer and a freelance software engineer from Lebanon. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</p>
+<p>I'm a passionate full stack web developer and a freelance software engineer from Lebanon. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.</p>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<p>i am also an open-source enthusiast. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
+<p>I am also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.</p>
 
 ---
 
