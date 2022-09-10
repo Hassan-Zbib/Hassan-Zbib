@@ -1,4 +1,4 @@
-![plot](./header.png)
+ <!--- ![plot](./header.png) -->
 
 <br />
 
